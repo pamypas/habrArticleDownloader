@@ -1,4 +1,4 @@
-# habrArticleSrcDownloader (Go version)
+# habrArticleDownloader (Go version)
 
 A small command‑line utility written in Go that downloads the main body of a Habr article, converts it to **Markdown**, and saves it to a file whose name matches the article title.
 
